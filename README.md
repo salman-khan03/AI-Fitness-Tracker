@@ -2,7 +2,7 @@
 
 Brogram is a production-ready workout intelligence platform built to impress recruiters and hiring managers. It blends polished UI, actionable analytics, and an explainable codebase so you can demo engineering craft, product sense, and relentless iteration in one project.
 
-https://github.com/yourusername/brogram
+https://github.com/yourusername
 
 ---
 

@@ -1,13 +1,16 @@
 {
   "name": "brogram",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:server": "node server/index.js",
+    "dev:full": "npm run dev:server & vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "server:seed": "node server/seed.js"
   },
   "dependencies": {
     "react": "^19.1.1",
